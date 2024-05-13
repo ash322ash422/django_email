@@ -49,7 +49,7 @@ class EmailManyView(View):
             email_from,
             ["ash522.ash622@gmail.com",],#more sender can  be added to the list
         )
-        email1.send()  # Send the email
+        #email1.send()  # Send the email
 
         # Construct two more messages
         email2 = EmailMessage(
