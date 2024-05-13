@@ -6,4 +6,4 @@ I used python3.12 in  virtual env
 *) You have to activate 2 step authenticaion if you are using gmail and then get app password at URL: 
 https://myaccount.google.com/apppasswords
 
-*) This app can send 1 email(localhost:8000) or many email to many receipients(localhost:8000/send_mass_email/)
+*) This app can send 1 email(localhost:8000) or many email to many recipients(localhost:8000/send_mass_email/)
